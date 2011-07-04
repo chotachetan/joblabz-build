@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/joblabz/!svn/ver/2/joblabz-build
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/joblabz/!svn/ver/3/joblabz-build/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/joblabz/!svn/ver/3/joblabz-build/pom.xml
+END

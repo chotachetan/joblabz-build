@@ -1,0 +1,33 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/joblabz/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/joblabz/!svn/ver/6/joblabz-build/joblabz-social-web
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/pom.xml
+END

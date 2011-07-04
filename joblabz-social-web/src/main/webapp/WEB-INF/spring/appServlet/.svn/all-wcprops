@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/src/main/webapp/WEB-INF/spring/appServlet
+END
+controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/joblabz/!svn/ver/5/joblabz-build/joblabz-social-web/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+END
